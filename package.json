@@ -1,0 +1,39 @@
+{
+  "name": "advent-of-code-2020-ts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "1": "node dist/aoc1.js",
+    "2": "node dist/aoc2.js",
+    "3": "node dist/aoc3.js",
+    "4": "node dist/aoc4.js",
+    "5": "node dist/aoc5.js",
+    "6": "node dist/aoc6.js",
+    "7": "node dist/aoc7.js",
+    "8": "node dist/aoc8.js",
+    "9": "node dist/aoc9.js",
+    "10": "node dist/aoc10.js",
+    "11": "node dist/aoc11.js",
+    "12": "node dist/aoc12.js",
+    "13": "node dist/aoc13.js",
+    "14": "node dist/aoc14.js",
+    "15": "node dist/aoc15.js",
+    "16": "node dist/aoc16.js",
+    "17": "node dist/aoc17.js",
+    "18": "node dist/aoc18.js",
+    "19": "node dist/aoc19.js",
+    "20": "node dist/aoc20.js",
+    "21": "node dist/aoc21.js",
+    "22": "node dist/aoc22.js",
+    "23": "node dist/aoc23.js",
+    "24": "node dist/aoc24.js",
+    "25": "node dist/aoc25.js"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.1.2"
+  },
+  "dependencies": {
+    "@types/node": "^14.14.11"
+  }
+}
